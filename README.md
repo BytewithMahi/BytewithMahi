@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mahi</h1>
+<h3 align="center">A passionate developer from India 🇮🇳</h3>
 
-<!--
-**BytewithMahi/BytewithMahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;AI+Enthusiast;Hackathon+Builder;Future+Full+Stack+Engineer&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 💡 I love building **AI-powered tools** for real-world problems  
+- 🏆 Hackathon enthusiast & project builder  
+- 📚 Currently learning **APIs, System Design & Backend**  
+- 🎯 Goal: Become a strong **AI / Full-Stack Engineer**
+
+---
+
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,react,node,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🔍 **GitHub Review Generator** – AI that reviews GitHub profiles  
+- 🧠 **AI Mental Health Companion** – Chat-based emotional support system  
+- 📊 **ECG Graph Generator** – Visualize ECG signals using Python  
+
+---
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BytewithMahi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=BytewithMahi&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BytewithMahi&theme=darkhub&no-frame=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+- 💼 LinkedIn: add-your-link
+- 🐦 X / Twitter: add-your-link
+- 📧 Email: add-your-mail
+
+---
+
+## ⚡ Fun Fact
+> I turn ☕ into code and ideas into real projects.
