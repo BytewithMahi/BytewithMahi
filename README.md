@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahi</h1>
+<h1 align="center">Hi 👋, I'm Arijit Chakraborty</h1>
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,node,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,node,html,css,git,github,vscode,C,Django" />
 </p>
 
 ---
@@ -44,9 +44,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: add-your-link
-- 🐦 X / Twitter: add-your-link
-- 📧 Email: add-your-mail
+- 💼 LinkedIn: https://www.linkedin.com/in/arijit-chakraborty-73238738b/
+- 🐦 X / Twitter: https://x.com/25Arijit
+- 📧 Email: chakrabortyarijit2005@gmail.com
 
 ---
 
