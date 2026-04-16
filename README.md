@@ -25,7 +25,8 @@
 ## 🚀 Featured Projects
 - 🔍 **GitHub Review Generator** – AI that reviews GitHub profiles  
 - 🧠 **AI Mental Health Companion** – Chat-based emotional support system  
-- 📊 **ECG Graph Generator** – Visualize ECG signals using Python  
+- 📊 **ECG Graph Generator** – Visualize ECG signals using Python
+- 🧬 Medora (Web3 + AI Healthcare Platform) – Decentralized system combining AI, blockchain, and supply chain for medical data, asset tokenization, secure communication, and transparent healthcare workflows
 
 ---
 ## 📊 GitHub Stats
