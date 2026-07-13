@@ -246,6 +246,119 @@ Building AI, Blockchain & Open Source projects every day 🚀
 | ☁ Tools | Git • Docker • Linux |
 
 </div>
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+🚀 Building AI-powered Applications
+
+🔗 Exploring Blockchain & Web3
+
+⚡ Learning System Design & Cloud
+
+🤖 Developing AI Agents & LLM Applications
+
+🌍 Contributing to Open Source
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,tensorflow,pytorch"/>
+
+</div>
+
+<div align="center">
+
+| 🌟 Technology | Progress |
+|:-------------|:--------:|
+| AI Engineering | ████████░░ 80% |
+| Full Stack Development | █████████░ 90% |
+| Blockchain Development | ███████░░░ 70% |
+| System Design | ██████░░░░ 60% |
+| Cloud Computing | █████░░░░░ 50% |
+
+</div>
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always excited to work on projects related to:
+
+✨ Artificial Intelligence
+
+⚡ Full Stack Development
+
+🔗 Blockchain & Web3
+
+🌐 Open Source
+
+🚀 Startup Ideas
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/BytewithMahi">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+> **"Code is not just written to make computers work. It is written to solve real-world problems."**
+
+</div>
+
+---
+
+# ☕ Fun Fact
+
+<div align="center">
+
+💡 I enjoy transforming ideas into real-world products using AI, Blockchain, and Modern Web Technologies.
+
+⭐ If you like my work, don't forget to star my repositories!
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Something+Awesome!;See+You+Again!"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=120&section=footer"/>
 
 ---
 
