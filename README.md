@@ -312,16 +312,16 @@ I'm always excited to work on projects related to:
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/arijit-chakraborty-73238738b/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="chakrabortyarijit2005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+<a href="https://x.com/25Arijit">
+<img src="https://skillicons.dev/icons?i=X" height="45"/>
 </a>
 
 </div>
