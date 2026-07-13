@@ -278,11 +278,11 @@ Building AI, Blockchain & Open Source projects every day 🚀
 
 | 🌟 Technology | Progress |
 |:-------------|:--------:|
-| AI Engineering | ████████░░ 80% |
+| AI Engineering | ████████░░ 60% |
 | Full Stack Development | █████████░ 90% |
-| Blockchain Development | ███████░░░ 70% |
-| System Design | ██████░░░░ 60% |
-| Cloud Computing | █████░░░░░ 50% |
+| Blockchain Development | ███████░░░ 40% |
+| System Design | ██████░░░░ 90% |
+| Cloud Computing | █████░░░░░ 30% |
 
 </div>
 
