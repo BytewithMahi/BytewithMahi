@@ -67,6 +67,133 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman"/>
 
 </div>
+# 🚀 Featured Projects
+
+<div align="center">
+
+### Building impactful applications with **AI**, **Blockchain**, and **Modern Web Technologies**
+
+</div>
+
+<br>
+
+## 🏥 Medora
+
+> **AI + Blockchain Medicine Supply Chain Platform**
+
+Secure medicine supply chain powered by **Artificial Intelligence**, **Blockchain**, and **QR Verification** to eliminate counterfeit medicines.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `Supabase` `Blockchain` `AI`
+
+**Highlights**
+
+✨ AI Fraud Detection • QR Verification • Blockchain Ledger • Batch Tracking • Demand Prediction
+
+<p>
+<a href="https://github.com/BytewithMahi/Medora">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🤖 FLAT
+
+> **Formal Language & Automata Toolkit**
+
+An educational toolkit for learning and visualizing **Formal Languages & Automata Theory** through interactive simulations.
+
+**Tech Stack**
+
+`React` `TypeScript` `Tailwind CSS` `Vite`
+
+**Highlights**
+
+✨ DFA Simulator • NFA Simulator • ε-NFA Support • Regular Expressions • Grammar Tools • Parse Tree Visualization
+
+<p>
+<a href="https://github.com/BytewithMahi/FLAT">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📄 GitRead
+
+> **AI-Powered GitHub Repository Analyzer**
+
+Generate AI-powered summaries and understand repositories instantly.
+
+**Tech Stack**
+
+`React` `Node.js` `AI`
+
+**Highlights**
+
+✨ Repository Summary • README Analysis • Code Insights • GitHub Integration
+
+<p>
+<a href="https://github.com/BytewithMahi/GitRead">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🔐 NOD
+
+> **Decentralized Identity Management System**
+
+Blockchain-based digital identity platform for secure authentication and verification.
+
+**Tech Stack**
+
+`React` `Node.js` `Blockchain` `Web3`
+
+**Highlights**
+
+✨ DID Management • Secure Login • Blockchain Identity • Identity Verification
+
+<p>
+<a href="https://github.com/BytewithMahi/NOD">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ❤️ Swasthya
+
+> **Smart Healthcare Platform**
+
+Modern healthcare management platform focused on accessibility and patient care.
+
+**Tech Stack**
+
+`React` `Node.js` `Supabase`
+
+**Highlights**
+
+✨ Patient Management • Medical Records • Responsive Dashboard • Secure Authentication
+
+<p>
+<a href="https://github.com/BytewithMahi/Swasthya">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 💙 More Projects Coming Soon...
+
+Building AI, Blockchain & Open Source projects every day 🚀
+
+</div>
 <!-- ============================ -->
 <!--      GitHub Analytics        -->
 <!-- ============================ -->
