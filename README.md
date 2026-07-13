@@ -1,55 +1,79 @@
-<h1 align="center">Hi 👋, I'm Arijit Chakraborty</h1>
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;AI+Enthusiast;Hackathon+Builder;Future+Full+Stack+Engineer&center=true&width=500&height=50">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=BytewithMahi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Blockchain%20Enthusiast&descAlignY=60"/>
+
+# 👋 Hi, I'm Arijit Chakraborty
+
+### AI Engineer • Full Stack Developer • Blockchain Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Blockchain+Explorer;Open+Source+Enthusiast;Always+Learning+Something+New"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=BytewithMahi&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/followers/BytewithMahi?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/BytewithMahi?style=for-the-badge" />
 </p>
 
----
-
-## 👨‍💻 About Me
-- 💡 I love building **AI-powered tools** for real-world problems  
-- 🏆 Hackathon enthusiast & project builder  
-- 📚 Currently learning **APIs, System Design & Backend**  
-- 🎯 Goal: Become a strong **AI / Full-Stack Engineer**
+</div>
 
 ---
 
-## 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,node,html,css,git,github,vscode,C,Django" />
-</p>
+# 💫 About Me
+
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🚀 Passionate Full Stack Developer from India
+
+🤖 Building AI-powered Applications
+
+🔗 Exploring Blockchain & Web3
+
+💡 Love solving Real World Problems
+
+🎨 Interested in UI/UX Design
+
+🌱 Currently learning
+
+- AI Engineering
+- System Design
+- Backend Architecture
+- Cloud Computing
 
 ---
 
-## 🚀 Featured Projects
-- 🔍 **GitHub Review Generator** – AI that reviews GitHub profiles  
-- 🧠 **AI Mental Health Companion** – Chat-based emotional support system  
-- 📊 **ECG Graph Generator** – Visualize ECG signals using Python
-- 🧬 Medora (Web3 + AI Healthcare Platform) – Decentralized system combining AI, blockchain, and supply chain for medical data, asset tokenization, secure communication, and transparent healthcare workflows
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap,vite"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase"/>
+
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman"/>
+
+</div>
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BytewithMahi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=BytewithMahi&theme=tokyonight" />
-</p>
 
----
+<div align="center">
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BytewithMahi&theme=darkhub&no-frame=true" />
-</p>
+# 🚀 Featured Projects
 
----
+### *Scroll Down 👇*
 
-## 🌐 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/arijit-chakraborty-73238738b/
-- 🐦 X / Twitter: https://x.com/25Arijit
-- 📧 Email: chakrabortyarijit2005@gmail.com
-
----
-
-## ⚡ Fun Fact
-> I turn ☕ into code and ideas into real projects.
+</div>
