@@ -360,7 +360,7 @@ I'm always excited to work on projects related to:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=120&section=footer"/>
 
----
+--
 
 <div align="center">
 
