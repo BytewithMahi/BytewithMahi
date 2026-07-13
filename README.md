@@ -67,13 +67,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman"/>
 
 </div>
+<!-- ============================ -->
+<!--      GitHub Analytics        -->
+<!-- ============================ -->
 
----
-
-<div align="center">
-
-# 🚀 Featured Projects
-
-### *Scroll Down 👇*
-
-</div>
