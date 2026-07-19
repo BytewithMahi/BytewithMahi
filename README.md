@@ -64,7 +64,7 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
 </div>
 # 🚀 Featured Projects
@@ -238,15 +238,14 @@ Building AI, Blockchain & Open Source projects every day 🚀
 
 | 🚀 Focus | Technologies |
 |----------|--------------|
-| 🤖 AI Engineering | OpenAI • Gemini • LLM |
+| 🤖 AI Engineering | OpenAI • Gemini • LLM  |
 | 🌐 Frontend | React • TypeScript • Tailwind |
 | ⚙ Backend | Node.js • Express • FastAPI |
-| 🗄 Database | PostgreSQL • Supabase • MongoDB |
-| 🔗 Blockchain | Web3 • Smart Contracts • DID |
-| ☁ Tools | Git • Docker • Linux |
+| 🗄 Database | PostgreSQL • Supabase •|
+| ☁ Tools | Git • Github • Linux • Figma |
 
 </div>
----
+
 
 # 🎯 Current Focus
 
@@ -302,7 +301,6 @@ I'm always excited to work on projects related to:
 
 🚀 Startup Ideas
 
----
 
 # 🌐 Connect With Me
 
@@ -326,7 +324,7 @@ I'm always excited to work on projects related to:
 
 </div>
 
----
+
 
 # 💬 Developer Quote
 
