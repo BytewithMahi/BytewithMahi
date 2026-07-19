@@ -239,9 +239,9 @@ Building AI, Blockchain & Open Source projects every day 🚀
 | 🚀 Focus | Technologies |
 |----------|--------------|
 | 🤖 AI Engineering | OpenAI • Gemini • LLM  |
-| 🌐 Frontend | React • TypeScript • Tailwind |
+| 🌐 Frontend | React • TypeScript • Tailwind • Javascript|
 | ⚙ Backend | Node.js • Express • FastAPI |
-| 🗄 Database | PostgreSQL • Supabase •|
+| 🗄 Database | MongoDB • Supabase |
 | ☁ Tools | Git • Github • Linux • Figma |
 
 </div>
