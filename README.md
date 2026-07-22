@@ -365,6 +365,7 @@ I'm always excited to work on projects related to:
 ### ⭐ Building scalable software with AI, Blockchain & Modern Web Technologies.
 
 </div>
+© 2026 Arijit Chakraborty. All rights reserved.
 <!-- ============================ -->
 <!--      GitHub Analytics        -->
 <!-- ============================ -->
